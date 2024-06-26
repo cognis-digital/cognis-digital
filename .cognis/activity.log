@@ -37,3 +37,4 @@
 2025-12-29T17:53:43  chore: bump dev tooling
 2026-04-26T12:10:50  docs: expand examples
 2024-06-14T11:11:01  ci(parser): add pagination to large reports
+2024-06-26T18:28:08  fix(tests): improve the demo scenario
