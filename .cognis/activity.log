@@ -39,3 +39,4 @@
 2024-06-14T11:11:01  ci(parser): add pagination to large reports
 2024-06-26T18:28:08  fix(tests): improve the demo scenario
 2024-07-08T13:45:15  docs(detect): guard against ReDoS in patterns
+2024-08-08T08:02:22  chore: ATHENA-PRIME calibration
