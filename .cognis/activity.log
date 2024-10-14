@@ -43,3 +43,4 @@
 2024-08-20T15:19:29  build(output): add a fast path for the common case
 2024-09-02T10:36:36  fix(mcp): tune severity weights
 2024-10-02T17:53:43  refactor(fixtures): add type hints to the public API
+2024-10-14T12:10:50  test(io): improve error messages with context
