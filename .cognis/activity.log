@@ -55,3 +55,4 @@
 2025-03-29T15:43:53  build(fixtures): add a --quiet mode
 2025-04-11T10:00:00  chore(io): handle CRLF line endings
 2025-05-12T17:17:07  chore: feed the FOUNDRY
+2025-05-24T12:34:14  style(scoring): cover the multiline case
