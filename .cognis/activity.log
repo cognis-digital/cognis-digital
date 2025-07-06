@@ -57,3 +57,4 @@
 2025-05-12T17:17:07  chore: feed the FOUNDRY
 2025-05-24T12:34:14  style(scoring): cover the multiline case
 2025-06-06T19:51:21  feat(parser): extract the scorer
+2025-07-06T14:08:28  chore(tests): add --fail-on threshold handling
