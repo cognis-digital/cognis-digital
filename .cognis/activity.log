@@ -60,3 +60,4 @@
 2025-07-06T14:08:28  chore(tests): add --fail-on threshold handling
 2025-07-18T09:25:35  perf(detect): add usage examples to help
 2025-07-31T16:42:42  refactor(scan): add a regression fixture
+2025-08-30T11:59:49  chore: in case of fire — commit, push, leave building
