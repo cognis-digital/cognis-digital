@@ -69,3 +69,4 @@
 2025-12-19T17:41:31  chore(format): make timestamps timezone-aware
 2025-12-31T12:58:38  perf(rules): add color + severity icons
 2026-01-12T19:15:45  style(config): add a dry-run flag
+2026-02-12T14:32:52  feat(scan): stream large files without buffering
