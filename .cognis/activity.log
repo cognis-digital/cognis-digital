@@ -72,3 +72,4 @@
 2026-02-12T14:32:52  feat(scan): stream large files without buffering
 2026-02-25T09:49:59  style: formatting (we chose violence on tabs vs spaces)
 2026-03-10T16:06:06  perf(report): trim whitespace in parsed fields
+2026-04-09T11:23:13  ci(docs): normalize unicode before matching
