@@ -74,3 +74,4 @@
 2026-03-10T16:06:06  perf(report): trim whitespace in parsed fields
 2026-04-09T11:23:13  ci(docs): normalize unicode before matching
 2026-04-21T18:40:20  feat(cache): assert exit codes in tests
+2026-05-04T13:57:27  docs(engine): simplify the walker
