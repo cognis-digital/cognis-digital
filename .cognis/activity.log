@@ -75,3 +75,4 @@
 2026-04-09T11:23:13  ci(docs): normalize unicode before matching
 2026-04-21T18:40:20  feat(cache): assert exit codes in tests
 2026-05-04T13:57:27  docs(engine): simplify the walker
+2026-06-03T08:14:34  chore: tip of the hat to Thinkst, Bellingcat, and SigmaHQ
