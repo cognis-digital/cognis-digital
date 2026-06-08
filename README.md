@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b46c1,100:2b6cb0&height=200&section=header&text=Cognis%20Digital&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Making%20Tomorrow%20Better%20Today&descSize=20&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b46c1,50:5a3fb0,100:2b6cb0&height=210&section=header&text=COGNIS%20%20DIGITAL&fontSize=66&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=&stroke=00000022" width="100%"/>
+
+### Making Tomorrow Better Today
 
 <a href="https://cognis.digital"><img src="https://img.shields.io/badge/Web-cognis.digital-6b46c1?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://github.com/cognis-digital"><img src="https://img.shields.io/badge/Tools-102%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MCP-native-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/License-COCL%201.0-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/License-COCL%201.0-2ea043?style=for-the-badge"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6B46C1&center=true&vCenter=true&width=800&lines=Advanced+Cybersecurity+%E2%80%A2+AI+Innovation+%E2%80%A2+Blockchain;The+Cognis+Neural+Suite+%E2%80%94+102%2B+open+tools;Single-purpose+%E2%80%A2+Self-hostable+%E2%80%A2+MCP-native;Secure+the+agentic+era." width="800"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=6B46C1&center=true&vCenter=true&width=940&height=50&lines=Advanced+Cybersecurity+%E2%80%94+AI+Innovation+%E2%80%94+Blockchain;The+Cognis+Neural+Suite%3A+102%2B+open-source+tools;Single-purpose+%C2%B7+Self-hostable+%C2%B7+MCP-native;Securing+the+agentic+era%2C+one+tool+at+a+time" width="940"/>
 
 </div>
 
