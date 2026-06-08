@@ -255,6 +255,24 @@ Every tool ships **polyglot ports of the same logic** — pick your stack:
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cognis-digital&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5" alt="languages"/></div>
 
+## 👤 Founder & engineering stack
+
+Led by **Christopher Hyatt** — Software & AI Engineer, founder of Cognis Digital, smart-contract auditor (Entersoft, intern→lead), and federal cybersecurity SME. 🛰️ **Hack-A-Sat 7th worldwide / 3,600+ teams** · **Top 1% TryHackMe** · Eagle Scout · CompTIA Security+ · CISSP Prep · AWS DevOps.
+
+**Languages** · Python · TypeScript/JavaScript · Solidity · Rust · Go · Move · Cairo · Vyper · SQL · Bash
+
+**AI / Agents** · self-hosted LLMs · RAG · evals & guardrails · MCP · Claude Agent SDK · LangGraph · CrewAI · AutoGen · LangChain · LlamaIndex · Ollama · vLLM · llama.cpp · custom tool-loop harness
+
+**Chains** · EVM · Base · Arbitrum · Blast · Polygon · Solana · Algorand · Nervos (CKB) · Cronos · Conflux · XRPL
+
+**Engineering** · React/Next.js · FastAPI · Node.js · Docker · Kubernetes · AWS · Azure · GCP · PostgreSQL · Redis · Supabase · CI/CD
+
+**Security & Web3** · smart-contract audit · formal verification · pentesting · Foundry · Slither · Echidna · Mythril · OpenZeppelin · Hardhat · Burp Suite · Nmap · Kali · SIEM/Splunk · Nessus · NIST 800-53 · MITRE ATT&CK
+
+**Intelligence** · OSINT · SIGINT · GEOINT · HUMINT · ADINT &nbsp;|&nbsp; **PQC** · post-quantum crypto (KEM)
+
+<sub>Selected from 80+ builds across AI, quant, Web3 & security. Open to roles & contract work via <a href="https://devpairer.com">DevPairer</a>.</sub>
+
 ## 🤝 Get involved
 
 - ⭐ **Star** the tools you find useful — it genuinely helps.
