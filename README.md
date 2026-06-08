@@ -247,6 +247,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Devcontainers](https://img.shields.io/badge/Devcontainers-ready-2b6cb0) ![SARIF](https://img.shields.io/badge/SARIF-code--scanning-green) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-instrumented-425CC7?logo=opentelemetry&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-native-black)
 
+## 🌐 Languages across the suite
+
+Every tool ships **polyglot ports of the same logic** — pick your stack:
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white) ![Docker](https://img.shields.io/badge/Dockerfile-2496ED?logo=docker&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cognis-digital&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5" alt="languages"/></div>
+
 ## 🤝 Get involved
 
 - ⭐ **Star** the tools you find useful — it genuinely helps.
