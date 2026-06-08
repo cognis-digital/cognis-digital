@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata: { name: cognis-digital, labels: { app: cognis-digital } }
+spec:
+  replicas: 1
+  selector: { matchLabels: { app: cognis-digital } }
+  template:
+    metadata: { labels: { app: cognis-digital } }
+    spec:
+      containers:
+        - name: cognis-digital
+          image: ghcr.io/cognis-digital/cognis-digital:latest
+          ports: [{ containerPort: 8000 }]
+          resources:
+            requests: { cpu: "50m", memory: "64Mi" }
+            limits: { cpu: "500m", memory: "256Mi" }
+---
+apiVersion: v1
+kind: Service
+metadata: { name: cognis-digital }
+spec:
+  selector: { app: cognis-digital }
+  ports: [{ port: 80, targetPort: 8000 }]
