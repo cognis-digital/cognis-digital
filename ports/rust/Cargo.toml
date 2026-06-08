@@ -1,0 +1,9 @@
+[package]
+name = "cognis-digital"
+version = "0.2.0"
+edition = "2021"
+license = "LicenseRef-COCL-1.0"
+
+[[bin]]
+name = "cognis-digital"
+path = "src/main.rs"
