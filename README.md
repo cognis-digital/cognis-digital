@@ -284,3 +284,16 @@ Led by **Christopher Hyatt** — Software & AI Engineer, founder of Cognis Digit
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:6b46c1&height=120&section=footer"/>
 
 </div>
+
+## How it fits
+
+```mermaid
+flowchart LR
+  U[You / CI / Agent] --> R[cognis-digital]
+  R --> O[Outputs & artifacts]
+  R --> M[MCP / JSON]
+  M --> AI[AI agents]
+  R --> S[Cognis Neural Suite]
+```
+
+**Explore the suite →** [🗂️ all tools](https://github.com/cognis-digital/cognis-neural-suite) · [⭐ awesome-cognis](https://github.com/cognis-digital/awesome-cognis) · [🔗 cognis-sources](https://github.com/cognis-digital/cognis-sources)
