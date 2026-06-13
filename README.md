@@ -101,3 +101,9 @@ Led by **Christopher Hyatt** — Software & AI Engineer, founder of Cognis Digit
 ⭐ Star the tools you use · 🛠️ Contribute under the collaboration-pull model (see any repo's `CONTRIBUTING.md`) · 🏢 Commercial use → `licensing@cognis.digital`
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:6b46c1&height=120&section=footer"/></div>
+
+## Interoperability
+
+`{}` composes with the 300+ tool Cognis suite — JSON in/out and a shared
+OpenAI-compatible `/v1` backbone. See **[INTEROP.md](INTEROP.md)** for the
+suite map, composition patterns, and reference stacks.
