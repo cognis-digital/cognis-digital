@@ -14,6 +14,28 @@
 
 </div>
 
+## Usage — step by step
+
+This is the Cognis Digital org profile. The tools live in the [Cognis Neural Suite](https://github.com/cognis-digital/cognis-neural-suite) — here is how to go from catalog to a running tool.
+
+1. **Browse the catalog** — open the [full catalog](https://github.com/cognis-digital/cognis-neural-suite) (or [awesome-cognis](https://github.com/cognis-digital/awesome-cognis)) and pick a tool.
+2. **Install it** — most tools ship a CLI on PyPI under the `cognis-` prefix, e.g.:
+   ```bash
+   pip install cognis-mcpharden     # see the chosen tool's README for its real package name
+   ```
+3. **Run the primary command** and get machine-readable output — tools emit JSON/SARIF:
+   ```bash
+   mcpharden scan . --format sarif --out report.sarif
+   ```
+4. **Point your agents at it** — every tool ships an MCP server, so Claude Desktop / Cursor / Cognis.Studio can scan, audit, and remediate autonomously (run the tool's `mcp` command).
+5. **Automate in CI** — gate builds on findings and upload SARIF to code scanning:
+   ```yaml
+   - run: pip install cognis-mcpharden
+   - run: mcpharden scan . --format sarif --out report.sarif --fail-on high
+   - uses: github/codeql-action/upload-sarif@v3
+     with: { sarif_file: report.sarif }
+   ```
+
 ## 👋 Welcome
 
 **Cognis Digital** (Wyoming, USA) builds the **[Cognis Neural Suite](https://github.com/cognis-digital/cognis-neural-suite)** — **280+ single-purpose, self-hostable, MCP-native** tools across security, AI, military/IC, compliance, data, dev, and business. Every tool ships a CLI, JSON/SARIF output, an MCP server, polyglot ports (Py/JS/Go/Rust), a Dev Container, cross-OS + cloud deploy, and CI/CodeQL — and **most ship real, tested code**.
