@@ -14,6 +14,56 @@
 
 </div>
 
+<!-- cognis:featured:start -->
+## ⚡ Start here — battle-tested, hard-target tools
+
+The places mainstream and SaaS security tools don't reach: **firmware · ICS/OT · RF · C2 · DFIR · compliance-as-code.** Every tool is single-purpose, **self-hostable**, and emits machine-readable JSON/SARIF.
+
+### 🔴 Threat detection & DFIR
+
+| Tool | What it does |
+| --- | --- |
+| **[c2detect](https://github.com/cognis-digital/c2detect)** ⭐29 | C2 server fingerprinter — Cobalt Strike, Sliver, Mythic, Havoc, Brute Ratel |
+| **[yararun](https://github.com/cognis-digital/yararun)** | Run simple YARA-style string/regex rules over a directory |
+
+### 🔧 Firmware · hardware · ICS/OT · RF
+
+| Tool | What it does |
+| --- | --- |
+| **[uefiscan](https://github.com/cognis-digital/uefiscan)** | Audit UEFI firmware dumps for missing Secure Boot keys, unsigned modules, S3 boot-script vulns, and known SMM threats |
+| **[fwxray](https://github.com/cognis-digital/fwxray)** | Diff two firmware images and surface exactly what changed: new binaries, flipped config flags, added certs, and shifted entropy regions |
+| **[keyhunt](https://github.com/cognis-digital/keyhunt)** | Scan firmware blobs and filesystem dumps for hardcoded private keys, API tokens, default creds, and weak RSA/ECC material |
+| **[sbomb](https://github.com/cognis-digital/sbomb)** | Generate a CycloneDX SBOM directly from an unpacked firmware root filesystem and flag components with known CVEs and EOL kernels |
+| **[otaverify](https://github.com/cognis-digital/otaverify)** | Validate OTA update packages end-to-end: signature chains, rollback protection, anti-downgrade counters, and delta-patch integrity |
+| **[modpot](https://github.com/cognis-digital/modpot)** | Spin up a high-interaction Modbus/DNP3 ICS honeypot that logs attacker register reads/writes as structured JSON |
+| **[blescope](https://github.com/cognis-digital/blescope)** | Sniff and decode BLE GATT traffic, fingerprint device profiles, and assert on insecure pairing/characteristics in CI against a capture |
+| **[adsbwatch](https://github.com/cognis-digital/adsbwatch)** ⭐3 | Analyze an ADS-B feed/CSV for anomalies: callsign spoofing, squawk 7500/7600/7700, and unusual loiter patterns |
+
+### 🛰️ OSINT & intelligence
+
+| Tool | What it does |
+| --- | --- |
+| **[maritimeint](https://github.com/cognis-digital/maritimeint)** | AIS vessel tracking & sanctions-evasion anomaly detection |
+| **[conflictwatch](https://github.com/cognis-digital/conflictwatch)** | Open-source conflict monitoring & situational awareness — ACLED/GDELT/UCDP + OSINT feeds, hotspots/trends, and a sourced 'what's working' lessons KB (OSINT/force-protection) |
+| **[cryptotrace](https://github.com/cognis-digital/cryptotrace)** | Free-tier blockchain investigator — ETH/BTC clustering + sanctions xref |
+| **[comint-osquery](https://github.com/cognis-digital/comint-osquery)** | DISA STIG-aligned osquery configs + RMF mapper |
+
+### 📋 Compliance-as-code
+
+| Tool | What it does |
+| --- | --- |
+| **[fedramplens](https://github.com/cognis-digital/fedramplens)** | FedRAMP boundary visualizer & OSCAL-format SSP/POAM generator |
+| **[compliance-atlas](https://github.com/cognis-digital/compliance-atlas)** | Condensed, cross-walked reference for SOC2, ISO 27001, NIST CSF/800-53/800-171, CMMC, GDPR, CCPA, HIPAA, PCI DSS, EU AI Act |
+
+### 📱 Mobile & app security
+
+| Tool | What it does |
+| --- | --- |
+| **[apkprobe](https://github.com/cognis-digital/apkprobe)** | Android APK static security analyzer — MASTG-aligned, from-scratch binary-AXML decoder, zero dependencies |
+
+> New here? Start with these — they're the proven, most-used tools. The full catalog of every tool is below. **⭐ a tool if it earns its place in your stack.**
+<!-- cognis:featured:end -->
+
 ## Usage — step by step
 
 This is the Cognis Digital org profile. The tools live in the [Cognis Neural Suite](https://github.com/cognis-digital/cognis-neural-suite) — here is how to go from catalog to a running tool.
