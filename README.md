@@ -16,32 +16,6 @@
 
 <!-- cognis:featured:start -->
 
-<!-- cognis:example:start -->
-## 🔎 Example output
-
-**Sample result format** _(illustrative values — run on your own data for real findings):_
-
-```
-{
-"results": [
-  {
-    "id": "1234567890",
-    "name": "John Doe",
-    "email": "johndoe@example.com",
-    "phone": "+1-555-1234"
-  },
-  {
-    "id": "2345678901",
-    "name": "Jane Smith",
-    "email": "janesmith@example.com",
-    "phone": "+1-555-5678"
-  }
-]
-}
-```
-
-<!-- cognis:example:end -->
-
 ## ⚡ Start here — battle-tested, hard-target tools
 
 The places mainstream and SaaS security tools don't reach: **firmware · ICS/OT · RF · C2 · DFIR · compliance-as-code.** Every tool is single-purpose, **self-hostable**, and emits machine-readable JSON/SARIF.
