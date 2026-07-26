@@ -18,12 +18,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Tools-396%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-86-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tools-397%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-87-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9033-c0392b?style=for-the-badge"/></a>
 
-**396** self-hostable, MCP-native tools · **86** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
+**397** self-hostable, MCP-native tools · **87** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
 
 </div>
 
@@ -102,9 +102,9 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 
 | Tool | What it does |
 | --- | --- |
-| **[codegraph-mcp](https://github.com/cognis-digital/codegraph-mcp)** ⭐6 | No-train, on-prem code knowledge graph served to AI agents over MCP, with a hash-chained audit row for every read. |
+| **[codegraph-mcp](https://github.com/cognis-digital/codegraph-mcp)** ⭐7 | No-train, on-prem code knowledge graph served to AI agents over MCP, with a hash-chained audit row for every read. |
 | **[uncensored-fleet](https://github.com/cognis-digital/uncensored-fleet)** ⭐2 | Deploy a local multi-model LLM fleet (llama.cpp) with an agent harness, hermes memory, and a one-command CLI |
-| **[tokenmeter](https://github.com/cognis-digital/tokenmeter)** ⭐1 | Token and cost counter / budgeter for LLM apps, CI-ready |
+| **[spendwatch](https://github.com/cognis-digital/spendwatch)** ⭐1 | Multi-provider LLM usage, cost & rate-limit meter with budget guards — Anthropic/OpenAI/OpenRouter/local, TUI + MCP + CI exit codes. Zero-dependency. |
 
 <!-- cognis:featured:end -->
 
@@ -116,6 +116,7 @@ Our newest work, where the stars haven't caught up to the engineering yet. If on
 
 | Tool | What it does |
 | --- | --- |
+| **[repolens](https://github.com/cognis-digital/repolens)** | Deterministic, token-budgeted, AST-aware repository context packs for LLM agents — with a hash-chained provenance row for every read. Zero-dependency CLI + MCP. |
 | **[garrison](https://github.com/cognis-digital/garrison)** | Self-hosted cyber-ops training range & curriculum — role tracks, offline auto-grading, readiness scoring. SDK + one-line install. Cognis Digital. |
 | **[obol](https://github.com/cognis-digital/obol)** | A file-based, chain-agnostic payment protocol for autonomous agents. |
 | **[hazardwatch](https://github.com/cognis-digital/hazardwatch)** | Self-updating public-safety hazard monitor — USGS quakes + NASA fires/storms + NWS alerts, one map. Keyless, offline, auto-refreshing. Cognis Digital. |
@@ -123,7 +124,6 @@ Our newest work, where the stars haven't caught up to the engineering yet. If on
 | **[plumewatch](https://github.com/cognis-digital/plumewatch)** | Detect & track smoke plumes in satellite/aerial/photo imagery — classical CV, zero-dependency, offline. Cognis Digital. |
 | **[taskloom](https://github.com/cognis-digital/taskloom)** | Deterministic, auditable multi-agent orchestration — register tools, run a fixed or rule-driven plan, get a fully-traced reproducible result. Zero deps, offline. |
 | **[fixpoint](https://github.com/cognis-digital/fixpoint)** | Empirically characterizing convergence of the AI code generate-verify-repair loop: converge / stall / oscillate / exhaust. Deterministic CI study + data-only 43-task benchmark. |
-| **[agentprint](https://github.com/cognis-digital/agentprint)** |  |
 
 > **Renamed to single-word brands** (old links now redirect here): `uefiscan` → **[bootwarden](https://github.com/cognis-digital/bootwarden)** · `keyhunt` → **[keyhound](https://github.com/cognis-digital/keyhound)** · `modpot` → **[modlure](https://github.com/cognis-digital/modlure)** — among others in the rebrand.
 
