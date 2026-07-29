@@ -19,11 +19,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Tools-397%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-90-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-91-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9033-c0392b?style=for-the-badge"/></a>
 
-**397** self-hostable, MCP-native tools · **90** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
+**397** self-hostable, MCP-native tools · **91** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
 
 </div>
 
@@ -55,12 +55,12 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 
 | Tool | What it does |
 | --- | --- |
+| **[canzap](https://github.com/cognis-digital/canzap)** ⭐2 | Replay, fuzz, and assert on CAN bus traffic from a .pcap or SocketCAN interface with a tiny YAML DSL. |
 | **[otaverify](https://github.com/cognis-digital/otaverify)** ⭐1 | Validate OTA update packages end-to-end: signature chains, rollback protection, anti-downgrade counters, and delta-patch integrity. |
 | **[blescope](https://github.com/cognis-digital/blescope)** ⭐1 | Sniff and decode BLE GATT traffic, fingerprint device profiles, and assert on insecure pairing/characteristics in CI against a capture. |
 | **[keyhound](https://github.com/cognis-digital/keyhound)** ⭐1 | Scan firmware blobs and filesystem dumps for hardcoded private keys, API tokens, default creds, and weak RSA/ECC material. |
 | **[modlure](https://github.com/cognis-digital/modlure)** ⭐1 | Spin up a high-interaction Modbus/DNP3 ICS honeypot that logs attacker register reads/writes as structured JSON. |
 | **[bootwarden](https://github.com/cognis-digital/bootwarden)** ⭐1 | Audit UEFI firmware dumps for missing Secure Boot keys, unsigned modules, S3 boot-script vulns, and known SMM threats. |
-| **[sbomb](https://github.com/cognis-digital/sbomb)** ⭐1 | Generate a CycloneDX SBOM directly from an unpacked firmware root filesystem and flag components with known CVEs and EOL kernels. |
 
 ### 🪖 Defense · national security · geoint
 
