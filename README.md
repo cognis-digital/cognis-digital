@@ -19,11 +19,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Tools-397%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-93-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-95-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9033-c0392b?style=for-the-badge"/></a>
 
-**397** self-hostable, MCP-native tools · **93** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
+**397** self-hostable, MCP-native tools · **95** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
 
 </div>
 
@@ -68,9 +68,9 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 | --- | --- |
 | **[awesome-drone-warfare-osint](https://github.com/cognis-digital/awesome-drone-warfare-osint)** ⭐3 | Citation-grade OSINT dataset: 8,300+ foreign components across 195+ drone & missile platforms, with cited effectiveness/EW/counter-UAS statistics. MIT (code) / CC BY 4.0 (data). |
 | **[spoofwatch](https://github.com/cognis-digital/spoofwatch)** ⭐2 | Detect & map GPS/GNSS jamming & spoofing from ADS-B/AIS position feeds — zero-dependency, offline. Cognis Digital. |
+| **[frontline-drones](https://github.com/cognis-digital/frontline-drones)** ⭐2 | Descriptive, citation-grade catalog of frontline & commercial drones + the open autonomy ecosystem (PX4/ArduPilot/MAVLink) and NVIDIA's open Hugging Face robotics/perception models. MIT (code) / CC BY 4.0 (data). |
 | **[adsbwatch](https://github.com/cognis-digital/adsbwatch)** ⭐2 | Analyze an ADS-B feed/CSV for anomalies: callsign spoofing, squawk 7500/7600/7700, and unusual loiter patterns. |
 | **[scryer](https://github.com/cognis-digital/scryer)** ⭐1 | Multi-domain ISR sensor fusion for counternarcotics (non-kinetic) — EO/IR+radar+AIS+ADS-B track fusion, dark-contact cross-cue, coverage cost modeling, GeoJSON. Self-hosted, verified metrics. |
-| **[frontline-drones](https://github.com/cognis-digital/frontline-drones)** ⭐1 | Descriptive, citation-grade catalog of frontline & commercial drones + the open autonomy ecosystem (PX4/ArduPilot/MAVLink) and NVIDIA's open Hugging Face robotics/perception models. MIT (code) / CC BY 4.0 (data). |
 
 ### 🛰️ OSINT &amp; all-source intelligence
 
