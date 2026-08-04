@@ -18,12 +18,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Tools-397%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tools-407%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stars-96-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9033-c0392b?style=for-the-badge"/></a>
 
-**397** self-hostable, MCP-native tools · **96** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
+**407** self-hostable, MCP-native tools · **96** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
 
 </div>
 
@@ -116,14 +116,14 @@ Our newest work, where the stars haven't caught up to the engineering yet. If on
 
 | Tool | What it does |
 | --- | --- |
-| **[repolens](https://github.com/cognis-digital/repolens)** | Deterministic, token-budgeted, AST-aware repository context packs for LLM agents — with a hash-chained provenance row for every read. Zero-dependency CLI + MCP. |
-| **[garrison](https://github.com/cognis-digital/garrison)** | Self-hosted cyber-ops training range & curriculum — role tracks, offline auto-grading, readiness scoring. SDK + one-line install. Cognis Digital. |
-| **[obol](https://github.com/cognis-digital/obol)** | A file-based, chain-agnostic payment protocol for autonomous agents. |
-| **[hazardwatch](https://github.com/cognis-digital/hazardwatch)** | Self-updating public-safety hazard monitor — USGS quakes + NASA fires/storms + NWS alerts, one map. Keyless, offline, auto-refreshing. Cognis Digital. |
-| **[spoofwatch](https://github.com/cognis-digital/spoofwatch)** ⭐2 | Detect & map GPS/GNSS jamming & spoofing from ADS-B/AIS position feeds — zero-dependency, offline. Cognis Digital. |
-| **[plumewatch](https://github.com/cognis-digital/plumewatch)** | Detect & track smoke plumes in satellite/aerial/photo imagery — classical CV, zero-dependency, offline. Cognis Digital. |
-| **[taskloom](https://github.com/cognis-digital/taskloom)** | Deterministic, auditable multi-agent orchestration — register tools, run a fixed or rule-driven plan, get a fully-traced reproducible result. Zero deps, offline. |
-| **[fixpoint](https://github.com/cognis-digital/fixpoint)** | Empirically characterizing convergence of the AI code generate-verify-repair loop: converge / stall / oscillate / exhaust. Deterministic CI study + data-only 43-task benchmark. |
+| **[earshot](https://github.com/cognis-digital/earshot)** | Distributed acoustic localization + take-cover warning for incoming drones and rounds; TDOA multilateration, self-updating signatures, CoT interop (US). Detection/warning, not weapons. |
+| **[vouch](https://github.com/cognis-digital/vouch)** | Autonomy assurance cases, decision audit, and trust calibration for trustworthy autonomous systems (US). Assurance and accountability, not weapons. |
+| **[perch](https://github.com/cognis-digital/perch)** | Precision confined-area landing-site assessment for drone delivery to rooftops/courtyards/basements (US). Fuses DSM + real-time detections; never lands on a person. Delivery/rescue, not weapons. |
+| **[tiderunner](https://github.com/cognis-digital/tiderunner)** | Unmanned surface vessel (USV) autonomy for MCM, ISR, and logistics ferry, with COLREGS collision avoidance (US). Survey/logistics/nav-safety, not weapons. |
+| **[cognis-chainwatch](https://github.com/cognis-digital/cognis-chainwatch)** | OSINT supply-chain/infrastructure analysis, counter-proliferation, affordability, lessons-learned, defensive I&W (US). Analysis, not targeting. |
+| **[meshward](https://github.com/cognis-digital/meshward)** | Resilient tactical mesh: MANET routing + DTN + sovereignty-aware multi-bearer failover (US). Comms resilience, not weapons. |
+| **[quartermaster](https://github.com/cognis-digital/quartermaster)** | Cross-platform unmanned logistics tasking + fleet common operating picture (US). Tasking, not weapons. |
+| **[deepdrift](https://github.com/cognis-digital/deepdrift)** | UUV survey autonomy for mine countermeasures, ISR, and hydrography (US). Detection and survey, not weapons. |
 
 > **Renamed to single-word brands** (old links now redirect here): `uefiscan` → **[bootwarden](https://github.com/cognis-digital/bootwarden)** · `keyhunt` → **[keyhound](https://github.com/cognis-digital/keyhound)** · `modpot` → **[modlure](https://github.com/cognis-digital/modlure)** — among others in the rebrand.
 
