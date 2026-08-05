@@ -19,11 +19,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Tools-407%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-96-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-102-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9033-c0392b?style=for-the-badge"/></a>
 
-**407** self-hostable, MCP-native tools · **96** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
+**407** self-hostable, MCP-native tools · **102** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
 
 </div>
 
@@ -56,19 +56,19 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 | Tool | What it does |
 | --- | --- |
 | **[canzap](https://github.com/cognis-digital/canzap)** ⭐2 | Replay, fuzz, and assert on CAN bus traffic from a .pcap or SocketCAN interface with a tiny YAML DSL. |
+| **[acqnav](https://github.com/cognis-digital/acqnav)** ⭐1 | Defense Acquisition Navigator — open, self-hostable software for DoD acquisition & program management: pathway recommender, transparent transition-probability scoring, TRL/MRL readiness, color-of-money, JCIDS alignment, milestone gates, pilot-to-program planning. |
 | **[otaverify](https://github.com/cognis-digital/otaverify)** ⭐1 | Validate OTA update packages end-to-end: signature chains, rollback protection, anti-downgrade counters, and delta-patch integrity. |
 | **[blescope](https://github.com/cognis-digital/blescope)** ⭐1 | Sniff and decode BLE GATT traffic, fingerprint device profiles, and assert on insecure pairing/characteristics in CI against a capture. |
 | **[keyhound](https://github.com/cognis-digital/keyhound)** ⭐1 | Scan firmware blobs and filesystem dumps for hardcoded private keys, API tokens, default creds, and weak RSA/ECC material. |
 | **[modlure](https://github.com/cognis-digital/modlure)** ⭐1 | Spin up a high-interaction Modbus/DNP3 ICS honeypot that logs attacker register reads/writes as structured JSON. |
-| **[bootwarden](https://github.com/cognis-digital/bootwarden)** ⭐1 | Audit UEFI firmware dumps for missing Secure Boot keys, unsigned modules, S3 boot-script vulns, and known SMM threats. |
 
 ### 🪖 Defense · national security · geoint
 
 | Tool | What it does |
 | --- | --- |
-| **[awesome-drone-warfare-osint](https://github.com/cognis-digital/awesome-drone-warfare-osint)** ⭐3 | Citation-grade OSINT dataset: 8,300+ foreign components across 195+ drone & missile platforms, with cited effectiveness/EW/counter-UAS statistics. MIT (code) / CC BY 4.0 (data). |
+| **[awesome-drone-warfare-osint](https://github.com/cognis-digital/awesome-drone-warfare-osint)** ⭐4 | Citation-grade OSINT dataset: 8,300+ foreign components across 195+ drone & missile platforms, with cited effectiveness/EW/counter-UAS statistics. MIT (code) / CC BY 4.0 (data). |
+| **[frontline-drones](https://github.com/cognis-digital/frontline-drones)** ⭐3 | Descriptive, citation-grade catalog of frontline & commercial drones + the open autonomy ecosystem (PX4/ArduPilot/MAVLink) and NVIDIA's open Hugging Face robotics/perception models. MIT (code) / CC BY 4.0 (data). |
 | **[spoofwatch](https://github.com/cognis-digital/spoofwatch)** ⭐2 | Detect & map GPS/GNSS jamming & spoofing from ADS-B/AIS position feeds — zero-dependency, offline. Cognis Digital. |
-| **[frontline-drones](https://github.com/cognis-digital/frontline-drones)** ⭐2 | Descriptive, citation-grade catalog of frontline & commercial drones + the open autonomy ecosystem (PX4/ArduPilot/MAVLink) and NVIDIA's open Hugging Face robotics/perception models. MIT (code) / CC BY 4.0 (data). |
 | **[adsbwatch](https://github.com/cognis-digital/adsbwatch)** ⭐2 | Analyze an ADS-B feed/CSV for anomalies: callsign spoofing, squawk 7500/7600/7700, and unusual loiter patterns. |
 | **[scryer](https://github.com/cognis-digital/scryer)** ⭐1 | Multi-domain ISR sensor fusion for counternarcotics (non-kinetic) — EO/IR+radar+AIS+ADS-B track fusion, dark-contact cross-cue, coverage cost modeling, GeoJSON. Self-hosted, verified metrics. |
 
@@ -78,8 +78,8 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 | --- | --- |
 | **[cryptotrace](https://github.com/cognis-digital/cryptotrace)** ⭐2 | Free-tier blockchain investigator — ETH/BTC clustering + sanctions xref |
 | **[maritimeint](https://github.com/cognis-digital/maritimeint)** ⭐2 | AIS vessel tracking & sanctions-evasion anomaly detection |
+| **[personagraph](https://github.com/cognis-digital/personagraph)** ⭐2 | Identity resolution dossier — username/email/phone cross-platform |
 | **[conflictwatch](https://github.com/cognis-digital/conflictwatch)** ⭐1 | Open-source conflict monitoring & situational awareness — ACLED/GDELT/UCDP + OSINT feeds, hotspots/trends, and a sourced 'what's working' lessons KB (OSINT/force-protection) |
-| **[personagraph](https://github.com/cognis-digital/personagraph)** ⭐1 | Identity resolution dossier — username/email/phone cross-platform |
 
 ### 📋 Compliance-as-code &amp; GRC
 
@@ -121,7 +121,7 @@ Our newest work, where the stars haven't caught up to the engineering yet. If on
 | **[perch](https://github.com/cognis-digital/perch)** | Precision confined-area landing-site assessment for drone delivery to rooftops/courtyards/basements (US). Fuses DSM + real-time detections; never lands on a person. Delivery/rescue, not weapons. |
 | **[tiderunner](https://github.com/cognis-digital/tiderunner)** | Unmanned surface vessel (USV) autonomy for MCM, ISR, and logistics ferry, with COLREGS collision avoidance (US). Survey/logistics/nav-safety, not weapons. |
 | **[cognis-chainwatch](https://github.com/cognis-digital/cognis-chainwatch)** | OSINT supply-chain/infrastructure analysis, counter-proliferation, affordability, lessons-learned, defensive I&W (US). Analysis, not targeting. |
-| **[meshward](https://github.com/cognis-digital/meshward)** | Resilient tactical mesh: MANET routing + DTN + sovereignty-aware multi-bearer failover (US). Comms resilience, not weapons. |
+| **[meshward](https://github.com/cognis-digital/meshward)** ⭐1 | Resilient tactical mesh: MANET routing + DTN + sovereignty-aware multi-bearer failover (US). Comms resilience, not weapons. |
 | **[quartermaster](https://github.com/cognis-digital/quartermaster)** | Cross-platform unmanned logistics tasking + fleet common operating picture (US). Tasking, not weapons. |
 | **[deepdrift](https://github.com/cognis-digital/deepdrift)** | UUV survey autonomy for mine countermeasures, ISR, and hydrography (US). Detection and survey, not weapons. |
 
