@@ -19,11 +19,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Tools-407%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-109-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-108-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9032-c0392b?style=for-the-badge"/></a>
 
-**407** self-hostable, MCP-native tools · **109** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐32)
+**407** self-hostable, MCP-native tools · **108** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐32)
 
 </div>
 
