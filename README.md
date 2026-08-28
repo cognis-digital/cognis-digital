@@ -19,11 +19,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Tools-407%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-108-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-110-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9032-c0392b?style=for-the-badge"/></a>
 
-**407** self-hostable, MCP-native tools · **108** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐32)
+**407** self-hostable, MCP-native tools · **110** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐32)
 
 </div>
 
@@ -71,6 +71,7 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 | **[adsbwatch](https://github.com/cognis-digital/adsbwatch)** ⭐3 | Analyze an ADS-B feed/CSV for anomalies: callsign spoofing, squawk 7500/7600/7700, and unusual loiter patterns. |
 | **[spoofwatch](https://github.com/cognis-digital/spoofwatch)** ⭐2 | Detect & map GPS/GNSS jamming & spoofing from ADS-B/AIS position feeds — zero-dependency, offline. Cognis Digital. |
 | **[scryer](https://github.com/cognis-digital/scryer)** ⭐1 | Multi-domain ISR sensor fusion for counternarcotics (non-kinetic) — EO/IR+radar+AIS+ADS-B track fusion, dark-contact cross-cue, coverage cost modeling, GeoJSON. Self-hosted, verified metrics. |
+| **[locateanything](https://github.com/cognis-digital/locateanything)** ⭐1 | Infer where a photo was taken using a local uncensored vision + reasoning model (OSINT/geoint, 100% local) |
 
 ### 🛰️ OSINT &amp; all-source intelligence
 
