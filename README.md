@@ -19,11 +19,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Tools-407%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-113-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-115-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
-<a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9032-c0392b?style=for-the-badge"/></a>
+<a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9033-c0392b?style=for-the-badge"/></a>
 
-**407** self-hostable, MCP-native tools · **113** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐32)
+**407** self-hostable, MCP-native tools · **115** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
 
 </div>
 
@@ -47,8 +47,8 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 
 | Tool | What it does |
 | --- | --- |
-| **[c2detect](https://github.com/cognis-digital/c2detect)** ⭐32 | C2 server fingerprinter — Cobalt Strike, Sliver, Mythic, Havoc, Brute Ratel |
-| **[packpeek](https://github.com/cognis-digital/packpeek)** ⭐3 | Static packer/loader fingerprinter (C) — UPX/ASPack/Themida/MPRESS/VMProtect + entropy; emits YARA + SARIF. JSON out, CI-tested. |
+| **[c2detect](https://github.com/cognis-digital/c2detect)** ⭐33 | C2 server fingerprinter — Cobalt Strike, Sliver, Mythic, Havoc, Brute Ratel |
+| **[packpeek](https://github.com/cognis-digital/packpeek)** ⭐4 | Static packer/loader fingerprinter (C) — UPX/ASPack/Themida/MPRESS/VMProtect + entropy; emits YARA + SARIF. JSON out, CI-tested. |
 | **[yararun](https://github.com/cognis-digital/yararun)** ⭐1 | Run simple YARA-style string/regex rules over a directory |
 
 ### 🔧 Firmware · hardware · ICS/OT · RF
