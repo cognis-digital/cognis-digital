@@ -19,11 +19,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Tools-407%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-116-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-117-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9033-c0392b?style=for-the-badge"/></a>
 
-**407** self-hostable, MCP-native tools · **116** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
+**407** self-hostable, MCP-native tools · **117** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
 
 </div>
 
@@ -55,8 +55,8 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 
 | Tool | What it does |
 | --- | --- |
+| **[acqnav](https://github.com/cognis-digital/acqnav)** ⭐2 | Defense Acquisition Navigator — open, self-hostable software for DoD acquisition & program management: pathway recommender, transparent transition-probability scoring, TRL/MRL readiness, color-of-money, JCIDS alignment, milestone gates, pilot-to-program planning. |
 | **[canzap](https://github.com/cognis-digital/canzap)** ⭐2 | Replay, fuzz, and assert on CAN bus traffic from a .pcap or SocketCAN interface with a tiny YAML DSL. |
-| **[acqnav](https://github.com/cognis-digital/acqnav)** ⭐1 | Defense Acquisition Navigator — open, self-hostable software for DoD acquisition & program management: pathway recommender, transparent transition-probability scoring, TRL/MRL readiness, color-of-money, JCIDS alignment, milestone gates, pilot-to-program planning. |
 | **[otaverify](https://github.com/cognis-digital/otaverify)** ⭐1 | Validate OTA update packages end-to-end: signature chains, rollback protection, anti-downgrade counters, and delta-patch integrity. |
 | **[blescope](https://github.com/cognis-digital/blescope)** ⭐1 | Sniff and decode BLE GATT traffic, fingerprint device profiles, and assert on insecure pairing/characteristics in CI against a capture. |
 | **[keyhound](https://github.com/cognis-digital/keyhound)** ⭐1 | Scan firmware blobs and filesystem dumps for hardcoded private keys, API tokens, default creds, and weak RSA/ECC material. |
