@@ -28,3 +28,8 @@
 [2026-08-15 00:29:40]   +polyglot/cpp/profile_merger.cpp  (loc now ~9403)
 [2026-08-15 00:31:41]   +polyglot/java/profile_merger.java  (loc now ~9899)
 [2026-08-15 00:33:02]   +polyglot/ruby/profile_merger.rb  (loc now ~10125)
+[2026-08-15 00:33:06] === done · cognis-digital · loc=10125 · {'committed': True, 'pushed': True, 'push_err': ''} ===
+[2026-09-12 15:25:45] === enhance · cognis-digital · words=120000 loc>=10000 langs=9 push=True ===
+[2026-09-12 15:25:50] phase DOCS — longform 120000-word corpus -> docs/corpus/
+[2026-09-13 04:07:11] phase POLYGLOT — expanding to >= 10000 LOC across 9 languages
+[2026-09-13 04:08:47]   facets: ['core', 'parser', 'validate', 'transform', 'report', 'cli']
