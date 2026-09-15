@@ -19,11 +19,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Tools-407%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-119-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-120-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9034-c0392b?style=for-the-badge"/></a>
 
-**407** self-hostable, MCP-native tools · **119** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐34)
+**407** self-hostable, MCP-native tools · **120** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐34)
 
 </div>
 
@@ -77,9 +77,9 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 
 | Tool | What it does |
 | --- | --- |
+| **[cryptotrace](https://github.com/cognis-digital/cryptotrace)** ⭐3 | Free-tier blockchain investigator — ETH/BTC clustering + sanctions xref |
 | **[maritimeint](https://github.com/cognis-digital/maritimeint)** ⭐3 | AIS vessel tracking & sanctions-evasion anomaly detection |
 | **[conflictwatch](https://github.com/cognis-digital/conflictwatch)** ⭐2 | Open-source conflict monitoring & situational awareness — ACLED/GDELT/UCDP + OSINT feeds, hotspots/trends, and a sourced 'what's working' lessons KB (OSINT/force-protection) |
-| **[cryptotrace](https://github.com/cognis-digital/cryptotrace)** ⭐2 | Free-tier blockchain investigator — ETH/BTC clustering + sanctions xref |
 | **[personagraph](https://github.com/cognis-digital/personagraph)** ⭐2 | Identity resolution dossier — username/email/phone cross-platform |
 
 ### 📋 Compliance-as-code &amp; GRC
