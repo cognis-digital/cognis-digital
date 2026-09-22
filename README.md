@@ -19,11 +19,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Tools-407%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-120-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-123-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9033-c0392b?style=for-the-badge"/></a>
 
-**407** self-hostable, MCP-native tools · **120** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
+**407** self-hostable, MCP-native tools · **123** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐33)
 
 </div>
 
@@ -57,19 +57,19 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 | --- | --- |
 | **[acqnav](https://github.com/cognis-digital/acqnav)** ⭐2 | Defense Acquisition Navigator — open, self-hostable software for DoD acquisition & program management: pathway recommender, transparent transition-probability scoring, TRL/MRL readiness, color-of-money, JCIDS alignment, milestone gates, pilot-to-program planning. |
 | **[canzap](https://github.com/cognis-digital/canzap)** ⭐2 | Replay, fuzz, and assert on CAN bus traffic from a .pcap or SocketCAN interface with a tiny YAML DSL. |
+| **[wavewatch](https://github.com/cognis-digital/wavewatch)** ⭐1 | Offline RF signal reconnaissance & triage from capture files — detect, fingerprint & classify emitters (drone/Wi-Fi/BLE/GNSS) without demod. Defensive, zero-dependency, CLI + MCP. |
 | **[otaverify](https://github.com/cognis-digital/otaverify)** ⭐1 | Validate OTA update packages end-to-end: signature chains, rollback protection, anti-downgrade counters, and delta-patch integrity. |
 | **[blescope](https://github.com/cognis-digital/blescope)** ⭐1 | Sniff and decode BLE GATT traffic, fingerprint device profiles, and assert on insecure pairing/characteristics in CI against a capture. |
 | **[keyhound](https://github.com/cognis-digital/keyhound)** ⭐1 | Scan firmware blobs and filesystem dumps for hardcoded private keys, API tokens, default creds, and weak RSA/ECC material. |
-| **[modlure](https://github.com/cognis-digital/modlure)** ⭐1 | Spin up a high-interaction Modbus/DNP3 ICS honeypot that logs attacker register reads/writes as structured JSON. |
 
 ### 🪖 Defense · national security · geoint
 
 | Tool | What it does |
 | --- | --- |
-| **[awesome-drone-warfare-osint](https://github.com/cognis-digital/awesome-drone-warfare-osint)** ⭐7 | Citation-grade OSINT dataset: 8,300+ foreign components across 195+ drone & missile platforms, with cited effectiveness/EW/counter-UAS statistics. MIT (code) / CC BY 4.0 (data). |
+| **[awesome-drone-warfare-osint](https://github.com/cognis-digital/awesome-drone-warfare-osint)** ⭐8 | Citation-grade OSINT dataset: 8,300+ foreign components across 195+ drone & missile platforms, with cited effectiveness/EW/counter-UAS statistics. MIT (code) / CC BY 4.0 (data). |
+| **[spoofwatch](https://github.com/cognis-digital/spoofwatch)** ⭐3 | Detect & map GPS/GNSS jamming & spoofing from ADS-B/AIS position feeds — zero-dependency, offline. Cognis Digital. |
 | **[frontline-drones](https://github.com/cognis-digital/frontline-drones)** ⭐3 | Descriptive, citation-grade catalog of frontline & commercial drones + the open autonomy ecosystem (PX4/ArduPilot/MAVLink) and NVIDIA's open Hugging Face robotics/perception models. MIT (code) / CC BY 4.0 (data). |
 | **[adsbwatch](https://github.com/cognis-digital/adsbwatch)** ⭐3 | Analyze an ADS-B feed/CSV for anomalies: callsign spoofing, squawk 7500/7600/7700, and unusual loiter patterns. |
-| **[spoofwatch](https://github.com/cognis-digital/spoofwatch)** ⭐2 | Detect & map GPS/GNSS jamming & spoofing from ADS-B/AIS position feeds — zero-dependency, offline. Cognis Digital. |
 | **[scryer](https://github.com/cognis-digital/scryer)** ⭐1 | Multi-domain ISR sensor fusion for counternarcotics (non-kinetic) — EO/IR+radar+AIS+ADS-B track fusion, dark-contact cross-cue, coverage cost modeling, GeoJSON. Self-hosted, verified metrics. |
 | **[locateanything](https://github.com/cognis-digital/locateanything)** ⭐1 | Infer where a photo was taken using a local uncensored vision + reasoning model (OSINT/geoint, 100% local) |
 
