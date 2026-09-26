@@ -19,11 +19,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Tools-407%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-125-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-126-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9034-c0392b?style=for-the-badge"/></a>
 
-**407** self-hostable, MCP-native tools · **125** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐34)
+**407** self-hostable, MCP-native tools · **126** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐34)
 
 </div>
 
@@ -99,6 +99,7 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 | --- | --- |
 | **[rootsentry](https://github.com/cognis-digital/rootsentry)** ⭐1 | Mobile runtime-integrity detection: root/jailbreak/emulator/hook/tamper indicators with a scored posture verdict (RASP-style, zero deps). |
 | **[apkprobe](https://github.com/cognis-digital/apkprobe)** ⭐1 | Android APK static security analyzer — MASTG-aligned, from-scratch binary-AXML decoder, zero dependencies. |
+| **[trackblock](https://github.com/cognis-digital/trackblock)** ⭐1 | Family phone stalkerware audit — MVT-class iOS/Android forensics |
 
 ### 🤖 Agent, MCP &amp; AI security
 
