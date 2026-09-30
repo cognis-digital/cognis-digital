@@ -19,11 +19,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Tools-407%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-127-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-130-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9034-c0392b?style=for-the-badge"/></a>
 
-**407** self-hostable, MCP-native tools · **127** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐34)
+**407** self-hostable, MCP-native tools · **130** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐34)
 
 </div>
 
@@ -56,11 +56,11 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 | Tool | What it does |
 | --- | --- |
 | **[acqnav](https://github.com/cognis-digital/acqnav)** ⭐2 | Defense Acquisition Navigator — open, self-hostable software for DoD acquisition & program management: pathway recommender, transparent transition-probability scoring, TRL/MRL readiness, color-of-money, JCIDS alignment, milestone gates, pilot-to-program planning. |
+| **[sbomb](https://github.com/cognis-digital/sbomb)** ⭐2 | Generate a CycloneDX SBOM directly from an unpacked firmware root filesystem and flag components with known CVEs and EOL kernels. |
 | **[canzap](https://github.com/cognis-digital/canzap)** ⭐2 | Replay, fuzz, and assert on CAN bus traffic from a .pcap or SocketCAN interface with a tiny YAML DSL. |
 | **[wavewatch](https://github.com/cognis-digital/wavewatch)** ⭐1 | Offline RF signal reconnaissance & triage from capture files — detect, fingerprint & classify emitters (drone/Wi-Fi/BLE/GNSS) without demod. Defensive, zero-dependency, CLI + MCP. |
 | **[otaverify](https://github.com/cognis-digital/otaverify)** ⭐1 | Validate OTA update packages end-to-end: signature chains, rollback protection, anti-downgrade counters, and delta-patch integrity. |
 | **[blescope](https://github.com/cognis-digital/blescope)** ⭐1 | Sniff and decode BLE GATT traffic, fingerprint device profiles, and assert on insecure pairing/characteristics in CI against a capture. |
-| **[keyhound](https://github.com/cognis-digital/keyhound)** ⭐1 | Scan firmware blobs and filesystem dumps for hardcoded private keys, API tokens, default creds, and weak RSA/ECC material. |
 
 ### 🪖 Defense · national security · geoint
 
@@ -86,11 +86,11 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 
 | Tool | What it does |
 | --- | --- |
+| **[stigsentry](https://github.com/cognis-digital/stigsentry)** ⭐2 | DISA STIG checker + NIST 800-53 RMF mapper + POAM emitter |
 | **[comint-osquery](https://github.com/cognis-digital/comint-osquery)** ⭐2 | DISA STIG-aligned osquery configs + RMF mapper |
 | **[compliance-atlas](https://github.com/cognis-digital/compliance-atlas)** ⭐2 | Condensed, cross-walked reference for SOC2, ISO 27001, NIST CSF/800-53/800-171, CMMC, GDPR, CCPA, HIPAA, PCI DSS, EU AI Act |
 | **[grcforge](https://github.com/cognis-digital/grcforge)** ⭐1 | GRC control crosswalk engine (NIST 800-53 / CIS / SOC 2) + gap analysis |
 | **[oscalkit](https://github.com/cognis-digital/oscalkit)** ⭐1 | OSCAL compliance-as-code — validate, convert & diff control coverage for catalogs, profiles, component definitions & SSPs |
-| **[stigsentry](https://github.com/cognis-digital/stigsentry)** ⭐1 | DISA STIG checker + NIST 800-53 RMF mapper + POAM emitter |
 | **[deidproof](https://github.com/cognis-digital/deidproof)** ⭐1 | Re-identification risk assessment that computes k-anonymity, l-diversity, and HIPAA Safe Harbor compliance on a dataset. |
 
 ### 📱 Mobile &amp; application security
@@ -107,6 +107,7 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 | --- | --- |
 | **[codegraph-mcp](https://github.com/cognis-digital/codegraph-mcp)** ⭐7 | No-train, on-prem code knowledge graph served to AI agents over MCP, with a hash-chained audit row for every read. |
 | **[uncensored-fleet](https://github.com/cognis-digital/uncensored-fleet)** ⭐2 | Deploy a local multi-model LLM fleet (llama.cpp) with an agent harness, hermes memory, and a one-command CLI |
+| **[shrike](https://github.com/cognis-digital/shrike)** ⭐1 | The autonomous security agent for your AI stack — finds the vulns in your MCP servers & agent tools AND writes the fixes, on a local model. |
 
 <!-- cognis:featured:end -->
 
