@@ -19,11 +19,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Tools-407%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-134-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-132-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9035-c0392b?style=for-the-badge"/></a>
 
-**407** self-hostable, MCP-native tools · **134** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐35)
+**407** self-hostable, MCP-native tools · **132** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐35)
 
 </div>
 
@@ -67,9 +67,9 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 | Tool | What it does |
 | --- | --- |
 | **[awesome-drone-warfare-osint](https://github.com/cognis-digital/awesome-drone-warfare-osint)** ⭐12 | Citation-grade OSINT dataset: 8,300+ foreign components across 195+ drone & missile platforms, with cited effectiveness/EW/counter-UAS statistics. MIT (code) / CC BY 4.0 (data). |
-| **[spoofwatch](https://github.com/cognis-digital/spoofwatch)** ⭐3 | Detect & map GPS/GNSS jamming & spoofing from ADS-B/AIS position feeds — zero-dependency, offline. Cognis Digital. |
 | **[frontline-drones](https://github.com/cognis-digital/frontline-drones)** ⭐3 | Descriptive, citation-grade catalog of frontline & commercial drones + the open autonomy ecosystem (PX4/ArduPilot/MAVLink) and NVIDIA's open Hugging Face robotics/perception models. MIT (code) / CC BY 4.0 (data). |
 | **[adsbwatch](https://github.com/cognis-digital/adsbwatch)** ⭐3 | Analyze an ADS-B feed/CSV for anomalies: callsign spoofing, squawk 7500/7600/7700, and unusual loiter patterns. |
+| **[spoofwatch](https://github.com/cognis-digital/spoofwatch)** ⭐2 | Detect & map GPS/GNSS jamming & spoofing from ADS-B/AIS position feeds — zero-dependency, offline. Cognis Digital. |
 | **[scryer](https://github.com/cognis-digital/scryer)** ⭐1 | Multi-domain ISR sensor fusion for counternarcotics (non-kinetic) — EO/IR+radar+AIS+ADS-B track fusion, dark-contact cross-cue, coverage cost modeling, GeoJSON. Self-hosted, verified metrics. |
 | **[locateanything](https://github.com/cognis-digital/locateanything)** ⭐1 | Infer where a photo was taken using a local uncensored vision + reasoning model (OSINT/geoint, 100% local) |
 
@@ -79,8 +79,8 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 | --- | --- |
 | **[cryptotrace](https://github.com/cognis-digital/cryptotrace)** ⭐3 | Free-tier blockchain investigator — ETH/BTC clustering + sanctions xref |
 | **[maritimeint](https://github.com/cognis-digital/maritimeint)** ⭐3 | AIS vessel tracking & sanctions-evasion anomaly detection |
-| **[conflictwatch](https://github.com/cognis-digital/conflictwatch)** ⭐2 | Open-source conflict monitoring & situational awareness — ACLED/GDELT/UCDP + OSINT feeds, hotspots/trends, and a sourced 'what's working' lessons KB (OSINT/force-protection) |
 | **[personagraph](https://github.com/cognis-digital/personagraph)** ⭐2 | Identity resolution dossier — username/email/phone cross-platform |
+| **[conflictwatch](https://github.com/cognis-digital/conflictwatch)** ⭐1 | Open-source conflict monitoring & situational awareness — ACLED/GDELT/UCDP + OSINT feeds, hotspots/trends, and a sourced 'what's working' lessons KB (OSINT/force-protection) |
 
 ### 📋 Compliance-as-code &amp; GRC
 
