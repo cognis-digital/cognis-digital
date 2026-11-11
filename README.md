@@ -19,11 +19,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Tools-407%2B-2b6cb0?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stars-153-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-154-6b46c1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/github/followers/cognis-digital?style=for-the-badge&label=Followers&color=5a3fb0&logo=github"/>
 <a href="https://github.com/cognis-digital/c2detect"><img src="https://img.shields.io/badge/Flagship-c2detect%20%E2%AD%9042-c0392b?style=for-the-badge"/></a>
 
-**407** self-hostable, MCP-native tools · **153** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐42)
+**407** self-hostable, MCP-native tools · **154** stars · flagship **[c2detect](https://github.com/cognis-digital/c2detect)** (⭐42)
 
 </div>
 
@@ -108,6 +108,7 @@ We don't run ads and we don't cold-sell. The work is the marketing: single-purpo
 | **[codegraph-mcp](https://github.com/cognis-digital/codegraph-mcp)** ⭐7 | No-train, on-prem code knowledge graph served to AI agents over MCP, with a hash-chained audit row for every read. |
 | **[uncensored-fleet](https://github.com/cognis-digital/uncensored-fleet)** ⭐2 | Deploy a local multi-model LLM fleet (llama.cpp) with an agent harness, hermes memory, and a one-command CLI |
 | **[shrike](https://github.com/cognis-digital/shrike)** ⭐1 | The autonomous security agent for your AI stack — finds the vulns in your MCP servers & agent tools AND writes the fixes, on a local model. |
+| **[trialwatch](https://github.com/cognis-digital/trialwatch)** ⭐1 | Query, diff, and monitor ClinicalTrials.gov records, alerting on status, enrollment, or result changes. |
 | **[spendwatch](https://github.com/cognis-digital/spendwatch)** ⭐1 | Multi-provider LLM usage, cost & rate-limit meter with budget guards — Anthropic/OpenAI/OpenRouter/local, TUI + MCP + CI exit codes. Zero-dependency. |
 
 <!-- cognis:featured:end -->
